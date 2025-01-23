@@ -9,11 +9,11 @@ This form is made on the local Xampp server.
 <br>
 Step 1- To start the Apache and MySQL from the Control Panel
 <br>
-[Screenshot](Images\Step 1.png)
+[Screenshot](\Images\Step 1.png)
 <br>
 Step 2- These are all the folders which are visible by going to the Apache Admin
 <br>
-[Screenshot of home page after Apache admin](Images/Step 2.png)
+[Screenshot of home page after Apache admin](/Images/Step 2.png)
 <br>
 Step 3- Click on the login.php folder to view the form
 <br>
