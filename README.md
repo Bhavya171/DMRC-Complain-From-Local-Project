@@ -8,4 +8,4 @@ This form is made on the local Xampp server.
 <br>
 ## Step 1- To start the Apache and MySQL from the Control Panel
 <br>
-![Image](https://github.com/user-attachments/assets/04d722c2-6d85-44eb-9d69-066cabbeea77)
+![Image](https://github.com/user-attachments/assets/4e2d89f4-d081-4c17-bc08-4d044ea08c4e)
