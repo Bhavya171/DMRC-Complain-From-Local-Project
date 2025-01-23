@@ -23,6 +23,6 @@ Step 4 - You can choose the action and fill the respective details and login or 
 <br>
 <br>
 <br>
-# phpmyadmin databse
+# PHPmyadmin databse
 <br>
 I have also added the database screenshots over there you can cross verify them as well.
