@@ -1,2 +1,2 @@
 # DMRC-Complain-From-Local-Project
-I made this complain form when i was interning at DMRC. I made this form using php and bootstrap framework.
+I made this complaint form when I was interning at DMRC. I made this form using PHP and Bootstrap framework.
